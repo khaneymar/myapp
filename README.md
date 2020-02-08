@@ -1,26 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Railsチュートリアルをもとに作成しました。
 
 * Ruby version
 2.6.5
 
-* System dependencies
+* Site URL :https://shrouded-mountain-91951.herokuapp.com/
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* Site URL
-coming soon....
+テストコードなし
